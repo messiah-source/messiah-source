@@ -13,6 +13,7 @@
 -  Кроссбраузерность
 -  Доступность
 -  Верстка писем
+-  Pixel Perfect
 
 ### :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-chebotarev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/chibisoff) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:chibisoff92@gmail.com)
 
