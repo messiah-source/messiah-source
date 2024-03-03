@@ -2,11 +2,11 @@
 
 ---
 
-### :man_technologist: Обо мне:
+### :man_technologist: Start:
 
-Я начинающий веб-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. На данный момент прохожу обучение в Skillbox с 01.12.2022. Постоянно двигаюсь вперед и очень доволен тем что связал свою жизнь с веб-разработкой. Сейчас работаю фрилансом и выполняю исправление различного рода багов/ошибок на сайтах, сделанных на Wordpress/Tilda, а так же поддерживаю несколько сайтов в настоящее время и параллельно занимаюсь SEO-оптимизацией.
+Я начинающий frontend developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Изучаю javascript самоучкой по ютубу + курсы. Ниже мои навыки, стэк и проекты.
 
-### Умения:
+### Skills:
 
 -  Адаптивная верстка flexbox/bootstrap
 -  Методология БЭМ
@@ -15,11 +15,11 @@
 -  Верстка писем
 -  Pixel Perfect
 
-### :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-chebotarev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/chibisoff) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:chibisoff92@gmail.com)
+### :mailbox: Чтобы связаться со мной -> [![Telegram Badge](https://img.shields.io/badge/-chebotarev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/chibisoff) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:chibisoff92@gmail.com)
 
 ---
 
-### 💻 Технологии:
+### 💻 Stack:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
