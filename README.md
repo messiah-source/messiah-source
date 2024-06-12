@@ -14,6 +14,7 @@ JS ES6:
 -  Promise
 -  REST API
 -  Webpack/gulp
+
 HTML/CSS:
 -  Адаптивная верстка flexbox/bootstrap
 -  Методология БЭМ
@@ -21,12 +22,14 @@ HTML/CSS:
 -  Доступность
 -  Верстка писем
 -  Pixel Perfect
+
 React:
 -  JSX
 -  Custom hooks
 -  Material UI
 -  SCSS / SASS
 -  Styled components
+
 Typescript:
 -  TSX
 -  Generics
