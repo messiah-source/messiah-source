@@ -4,7 +4,7 @@
 
 ### :man_technologist: Start:
 
-Я начинающий frontend developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Изучаю javascript самоучкой по ютубу + курсы. Ниже мои навыки, стэк и проекты.
+Я начинающий frontend developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Изучаю javascript самоучкой по ютубу, курсам и коммерческой практике. Ниже мои навыки, стэк и проекты.
 
 ### Skills:
 
