@@ -14,6 +14,7 @@ JS ES6:
 -  Promise
 -  REST API
 -  Webpack/gulp
+-  Class & OOP
 
 HTML/CSS:
 -  Адаптивная верстка flexbox/bootstrap
